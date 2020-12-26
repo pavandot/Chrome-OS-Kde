@@ -5,4 +5,10 @@
 - [Virtual Desktop Bar](https://github.com/wsdfhjxc/virtual-desktop-bar) [[AUR]](https://aur.archlinux.org/packages/plasma5-applets-virtual-desktop-bar-git/)
 
 # Icon theme
-- [Tela Dark](https://github.com/vinceliuice/Tela-icon-theme) [[AUR]](https://aur.archlinux.org/packages/tela-icon-theme/)
+- [Tela Icon Pack](https://github.com/vinceliuice/Tela-icon-theme) [[AUR]](https://aur.archlinux.org/packages/tela-icon-theme/)
+
+# Cursor theme
+- [McMojave cursors](https://store.kde.org/p/1355701/)
+
+# Terminal color scheme
+- [Dracula](https://draculatheme.com/konsole/)
