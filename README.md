@@ -12,3 +12,6 @@
 
 # Terminal color scheme
 - [Dracula](https://draculatheme.com/konsole/)
+
+# Global And Kvantum Theme
+-[Chrome-OS](https://github.com/vinceliuice/ChromeOS-kde)
