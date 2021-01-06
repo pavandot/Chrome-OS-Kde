@@ -15,3 +15,5 @@
 
 # Global And Kvantum Theme
 - [Chrome-OS](https://github.com/vinceliuice/ChromeOS-kde) [[AUR]](https://aur.archlinux.org/packages/chromeos-kde-git/)
+
+
